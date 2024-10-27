@@ -1,3 +1,9 @@
+# Infosys Subdomains
+
+This document lists various subdomains associated with Infosys for reference.
+
+## Main Subdomains
+
 - www.infosys.com
 - AUSWAC01-EXT.infosys.com
 - AUSWAC02-EXT.infosys.com
