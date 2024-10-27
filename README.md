@@ -1,99 +1,99 @@
-# all-infosys-sub-domains
+# # # all-infosys-sub-domains
 
 
-www.infosys.com
-AUSWAC01-EXT.infosys.com
-AUSWAC02-EXT.infosys.com
-AUSWEB01-EXT.infosys.com
-AUSWEB02-EXT.infosys.com
-Akaash.infosys.com
-AkaashRDG.infosys.com
-AutoDiscover.infosys.com
-BLRJPTLSSBS01.infosys.com
-BLRKECINFDRV01.infosys.com
-BLRWAC01-EXT.infosys.com
-BLRWAC02-EXT.infosys.com
-BLRWAC03-EXT.infosys.com
-BLRWEB01-EXT.infosys.com
-BLRWEB02-EXT.infosys.com
-BLRWEB03-EXT.infosys.com
-BLRWEBDIR-EXT.infosys.com
-Blrlsweb.infosys.com
-CHNWAC01-EXT.infosys.com
-CHNWEB01-EXT.infosys.com
-Careers.infosys.com
-Certificate.infosys.com
-DIALIN.infosys.com
-HYDWAC01-EXT.infosys.com
-HYDWEB01-EXT.infosys.com
-IMOBILE.infosys.com
-InfyDrive.infosys.com
-InfyDrive-BLR.infosys.com
-InfyDrive-US.infosys.com
-InfyIM.infosys.com
-InfyWebFile.infosys.com
-InvestorsTest.infosys.com
-KECGATE01.infosys.com
-KECGATE02.infosys.com
-Kecgate03.infosys.com
-LYNCDISCOVER.infosys.com
-Lyncdiscover.infosys.com
-LyncdiscoverInternal.infosys.com
-MEET.infosys.com
-MobileIdP.infosys.com
-www.OCA.infosys.com
-PLNWEBDIR.infosys.com
-PLNWEBDIR-EXT.infosys.com
-PRCWAC01-EXT.infosys.com
-PRCWAC02-EXT.infosys.com
-PRCWEB01-EXT.infosys.com
-PRCWEB02-EXT.infosys.com
-PUNITPLSSBS01.infosys.com
-PUNWAC01-EXT.infosys.com
-PUNWEB01-EXT.infosys.com
-SFOGATE01.infosys.com
-STSAkaash.infosys.com
-STSCollab.infosys.com
-TestCertificate.infosys.com
-UKWAC01-EXT.infosys.com
-UKWEB01-EXT.infosys.com
-USAIPLILABDEDINTFW1.infosys.com
-USAPLAINFDRV01.infosys.com
-USASBC01-EXT.infosys.com
-USASBC02-EXT.infosys.com
-USAWAC01-EXT.infosys.com
-USAWEB01-EXT.infosys.com
-Webmail.infosys.com
-Xnet.infosys.com
-aarohan.infosys.com
-abm.infosys.com
-BL4UL101.ad.infosys.com
-BLRB06ISGTWAPP.ad.infosys.com
-www.BLRB06ISGTWAPP.ad.infosys.com
-BLRJPTLSSBS01.ad.infosys.com
-BLRKECARCWEB.ad.infosys.com
-BLRKECENFSRV01.ad.infosys.com
-BLRKECLSFE01.ad.infosys.com
-BLRKECLSFE02.ad.infosys.com
-BLRKECLSFE03.ad.infosys.com
-BLRKECLSFE04.ad.infosys.com
-BPMBLRFAHXD01.ad.infosys.com
-BPMFAHXBLRB48.ad.infosys.com
-www.BPMFAHXBLRB48.ad.infosys.com
-CDCFEAX8400.ad.infosys.com
-www.CDCFEAX8400.ad.infosys.com
-CHNMCTENFSRV01.ad.infosys.com
-CHNSOARSERVER01.ad.infosys.com
-www.CHNSOARSERVER01.ad.infosys.com
-HYDPCMLSFE01.ad.infosys.com
-HYDPCMLSFE02.ad.infosys.com
-HYDPCMLSFE03.ad.infosys.com
-HYDPCMLSFE04.ad.infosys.com
-HYDPCMLSFE05.ad.infosys.com
-HYDPCMLSFE06.ad.infosys.com
-ICM.ad.infosys.com
-ICMUAT.ad.infosys.com
-INDBLRPRK2B11SKYSPM.ad.infosys.com
+# www.infosys.com
+# AUSWAC01-EXT.infosys.com
+# AUSWAC02-EXT.infosys.com
+# AUSWEB01-EXT.infosys.com
+# AUSWEB02-EXT.infosys.com
+# Akaash.infosys.com
+# AkaashRDG.infosys.com
+# AutoDiscover.infosys.com
+# BLRJPTLSSBS01.infosys.com
+# BLRKECINFDRV01.infosys.com
+# BLRWAC01-EXT.infosys.com
+# BLRWAC02-EXT.infosys.com
+# BLRWAC03-EXT.infosys.com
+# BLRWEB01-EXT.infosys.com
+# BLRWEB02-EXT.infosys.com
+# BLRWEB03-EXT.infosys.com
+# BLRWEBDIR-EXT.infosys.com
+# Blrlsweb.infosys.com
+# CHNWAC01-EXT.infosys.com
+# CHNWEB01-EXT.infosys.com
+# Careers.infosys.com
+# Certificate.infosys.com
+# DIALIN.infosys.com
+# HYDWAC01-EXT.infosys.com
+# HYDWEB01-EXT.infosys.com
+# IMOBILE.infosys.com
+# InfyDrive.infosys.com
+# InfyDrive-BLR.infosys.com
+# InfyDrive-US.infosys.com
+# InfyIM.infosys.com
+# InfyWebFile.infosys.com
+# InvestorsTest.infosys.com
+# KECGATE01.infosys.com
+# KECGATE02.infosys.com
+# Kecgate03.infosys.com
+# LYNCDISCOVER.infosys.com
+# Lyncdiscover.infosys.com
+# LyncdiscoverInternal.infosys.com
+# MEET.infosys.com
+# MobileIdP.infosys.com
+# www.OCA.infosys.com
+# PLNWEBDIR.infosys.com
+# PLNWEBDIR-EXT.infosys.com
+# PRCWAC01-EXT.infosys.com
+# PRCWAC02-EXT.infosys.com
+# PRCWEB01-EXT.infosys.com
+# PRCWEB02-EXT.infosys.com
+# PUNITPLSSBS01.infosys.com
+# PUNWAC01-EXT.infosys.com
+# PUNWEB01-EXT.infosys.com
+# SFOGATE01.infosys.com
+# STSAkaash.infosys.com
+# STSCollab.infosys.com
+# TestCertificate.infosys.com
+# UKWAC01-EXT.infosys.com
+# UKWEB01-EXT.infosys.com
+# USAIPLILABDEDINTFW1.infosys.com
+# USAPLAINFDRV01.infosys.com
+# USASBC01-EXT.infosys.com
+# USASBC02-EXT.infosys.com
+# USAWAC01-EXT.infosys.com
+# USAWEB01-EXT.infosys.com
+# Webmail.infosys.com
+# Xnet.infosys.com
+# aarohan.infosys.com
+# abm.infosys.com
+# BL4UL101.ad.infosys.com
+# BLRB06ISGTWAPP.ad.infosys.com
+# www.BLRB06ISGTWAPP.ad.infosys.com
+# BLRJPTLSSBS01.ad.infosys.com
+# BLRKECARCWEB.ad.infosys.com
+# BLRKECENFSRV01.ad.infosys.com
+# BLRKECLSFE01.ad.infosys.com
+# BLRKECLSFE02.ad.infosys.com
+# BLRKECLSFE03.ad.infosys.com
+# BLRKECLSFE04.ad.infosys.com
+# BPMBLRFAHXD01.ad.infosys.com
+# BPMFAHXBLRB48.ad.infosys.com
+# www.BPMFAHXBLRB48.ad.infosys.com
+# CDCFEAX8400.ad.infosys.com
+# www.CDCFEAX8400.ad.infosys.com
+# CHNMCTENFSRV01.ad.infosys.com
+# CHNSOARSERVER01.ad.infosys.com
+# www.CHNSOARSERVER01.ad.infosys.com
+# HYDPCMLSFE01.ad.infosys.com
+# HYDPCMLSFE02.ad.infosys.com
+# HYDPCMLSFE03.ad.infosys.com
+# HYDPCMLSFE04.ad.infosys.com
+# HYDPCMLSFE05.ad.infosys.com
+# HYDPCMLSFE06.ad.infosys.com
+# ICM.ad.infosys.com
+# ICMUAT.ad.infosys.com
+# INDBLRPRK2B11SKYSPM.ad.infosys.com
 www.INDBLRPRK2B11SKYSPM.ad.infosys.com
 INDBLRPRK2B11SKYSPMHA.ad.infosys.com
 INDBLRPRK2B11SKYVCMGR.ad.infosys.com
