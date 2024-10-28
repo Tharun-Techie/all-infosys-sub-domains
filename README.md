@@ -1,6 +1,7 @@
 # Infosys Subdomains
 
 This document lists various subdomains associated with Infosys for reference.
+Disclaimer : For education purposes only.
 
 ## Main Subdomains
 
